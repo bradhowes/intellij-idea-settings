@@ -1,1 +1,1 @@
-# InteiliJ IDEA Settings
+# IntelliJ IDEA Settings
