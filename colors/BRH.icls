@@ -4,7 +4,7 @@
     <property name="created">2018-12-12T17:43:10</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2018.3.1.0.0</property>
-    <property name="modified">2018-12-13T15:28:41</property>
+    <property name="modified">2018-12-14T11:03:28</property>
     <property name="originalScheme">_@user_Material Deep Ocean</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -2252,8 +2252,7 @@
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ff0077" />
-        <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="181a1f" />
+        <option name="BACKGROUND" value="84ffff" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -3427,6 +3426,12 @@
     <option name="Type parameter">
       <value>
         <option name="FOREGROUND" value="f78c6c" />
+      </value>
+    </option>
+    <option name="UNMATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="ff0010" />
       </value>
     </option>
     <option name="Unresolved reference access">
