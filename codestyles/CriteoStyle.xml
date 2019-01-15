@@ -89,7 +89,6 @@
     <option name="classCountToUseImportOnDemand" value="6" />
     <option name="FINALLY_BRACE_FORCE" value="3" />
     <option name="TRY_BRACE_FORCE" value="3" />
-    <option name="REFORMAT_ON_COMPILE" value="true" />
   </ScalaCodeStyleSettings>
   <TypeScriptCodeStyleSettings>
     <option name="INDENT_CHAINED_CALLS" value="false" />
