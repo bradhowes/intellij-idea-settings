@@ -1,7 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '~/src/criteo/criteo-trackingtool/MasterTag.Loader/mastertag.js [mastertag.js]'" />
-    <option name="defaultScopeName" value="File '~/src/criteo/criteo-trackingtool/MasterTag.Loader/mastertag.js [mastertag.js]'" />
-    <option name="SEARCH_SCOPE" value="File '~/src/criteo/criteo-trackingtool/MasterTag.Loader/mastertag.js [mastertag.js]'" />
+    <option name="customScope" value="Project 'criteo-gradle'" />
+    <option name="defaultScopeName" value="Project 'criteo-gradle'" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="Project 'criteo-gradle'" />
   </component>
 </application>

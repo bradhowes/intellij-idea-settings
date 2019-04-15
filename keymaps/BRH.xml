@@ -1,0 +1,10 @@
+<keymap version="1" name="BRH" parent="Mac OS X 10.5+">
+  <action id="Debug" />
+  <action id="EditorDelete">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+</keymap>
