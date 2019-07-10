@@ -1,6 +1,13 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="treeFontSizeEnabled" value="true" />
+    <option name="tabFontSizeEnabled" value="true" />
+    <option name="treeFontSize" value="11" />
+    <option name="tabFontSize" value="11" />
+    <option name="leftTreeIndent" value="2" />
     <option name="selectedTheme" value="DEEPOCEAN" />
     <option name="userId" value="4b297730:16afe377ec0:-8000" />
     <option name="version" value="3.10.0" />
